@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Norbal -->
+
+  <Norbal.label>norbal</Norbal.label>
+  <Norbal.description>A baseline human, Hardened by the colder climates. Hairy and strong but unable to deal with high temperatures.</Norbal.description>
+  <Norbal.tools.0.label>left fist</Norbal.tools.0.label>
+  <Norbal.tools.1.label>right fist</Norbal.tools.1.label>
+  <Norbal.tools.2.label>teeth</Norbal.tools.2.label>
+  <Norbal.tools.3.label>head</Norbal.tools.3.label>
+
+
+</LanguageData>

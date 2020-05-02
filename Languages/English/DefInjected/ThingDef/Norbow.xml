@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NORBIFICS -->
+
+  <Norbal_BoardingCrossbow.label>Bolt</Norbal_BoardingCrossbow.label>
+
+  <Norbal_Scorpion.label>Norbal Scorpion</Norbal_Scorpion.label>
+  <Norbal_Scorpion.description>Fearsome crossbow, deadly but slow.</Norbal_Scorpion.description>
+
+  <NorbalArrow_Grape.label>greatbow arrow</NorbalArrow_Grape.label>
+
+  <NorbalBow_Grape.label>great bow</NorbalBow_Grape.label>
+  <NorbalBow_Grape.description>A powerful greatbow. Fires a heavy arrow long distances.</NorbalBow_Grape.description>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <Norbhammer_Thrown.label>Hammer (thrown)</Norbhammer_Thrown.label>
+
+  <Norbhammar.label>Hammer</Norbhammar.label>
+  <Norbhammar.description>A mighty hammer.</Norbhammar.description>
+  <Norbhammar.verbs.0.label>throw hammer</Norbhammar.verbs.0.label>
+
+
+</LanguageData>

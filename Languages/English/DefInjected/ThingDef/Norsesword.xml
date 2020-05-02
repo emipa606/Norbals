@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NorbalMeleeWeapon_ShortSword.label>heroic sword</NorbalMeleeWeapon_ShortSword.label>
+  <NorbalMeleeWeapon_ShortSword.description>Reliable and deadly in melee combat. Comes with added arabic flair. It's likely loot from a raid</NorbalMeleeWeapon_ShortSword.description>
+  <NorbalMeleeWeapon_ShortSword.tools.0.label>handle</NorbalMeleeWeapon_ShortSword.tools.0.label>
+  <NorbalMeleeWeapon_ShortSword.tools.1.label>point</NorbalMeleeWeapon_ShortSword.tools.1.label>
+  <NorbalMeleeWeapon_ShortSword.tools.2.label>edge</NorbalMeleeWeapon_ShortSword.tools.2.label>
+
+  <NorbalMeleeWeapon_ShortSwordtwo.label>norbal sword</NorbalMeleeWeapon_ShortSwordtwo.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.description>Reliable and deadly in melee combat. Comes with added nordic flair</NorbalMeleeWeapon_ShortSwordtwo.description>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.0.label>handle</NorbalMeleeWeapon_ShortSwordtwo.tools.0.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.1.label>point</NorbalMeleeWeapon_ShortSwordtwo.tools.1.label>
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.2.label>edge</NorbalMeleeWeapon_ShortSwordtwo.tools.2.label>
+
+  <NorbalMeleeWeapon_Ax.label>Norbal War axe</NorbalMeleeWeapon_Ax.label>
+  <NorbalMeleeWeapon_Ax.description>Medieval axe.</NorbalMeleeWeapon_Ax.description>
+  <NorbalMeleeWeapon_Ax.tools.0.label>handle</NorbalMeleeWeapon_Ax.tools.0.label>
+  <NorbalMeleeWeapon_Ax.tools.1.label>edge</NorbalMeleeWeapon_Ax.tools.1.label>
+
+  <NorbalMeleeWeapon_Bigax.label>Battleaxe</NorbalMeleeWeapon_Bigax.label>
+  <NorbalMeleeWeapon_Bigax.description>The ultimate norbal beheader.</NorbalMeleeWeapon_Bigax.description>
+  <NorbalMeleeWeapon_Bigax.tools.0.label>handle</NorbalMeleeWeapon_Bigax.tools.0.label>
+  <NorbalMeleeWeapon_Bigax.tools.1.label>edge</NorbalMeleeWeapon_Bigax.tools.1.label>
+
+
+</LanguageData>
