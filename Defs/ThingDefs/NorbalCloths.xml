@@ -11,6 +11,9 @@
     <stuffCategories>
       <li>Leathery</li>
     </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <costStuffCount>50</costStuffCount>
     <statBases>
       <WorkToMake>4800</WorkToMake>
@@ -47,6 +50,9 @@
     <stuffCategories>
       <li>Fabric</li>
     </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <statBases>
       <WorkToMake>10000</WorkToMake>
       <Insulation_Cold>5</Insulation_Cold>
@@ -87,6 +93,9 @@
     <stuffCategories>
       <li>Leathery</li>
     </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <costStuffCount>60</costStuffCount>
     <statBases>
       <WorkToMake>5000</WorkToMake>
@@ -128,6 +137,9 @@
     <stuffCategories>
       <li>Leathery</li>
     </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <costStuffCount>45</costStuffCount>
     <statBases>
       <WorkToMake>5000</WorkToMake>
@@ -164,6 +176,9 @@
     <stuffCategories>
       <li>Leathery</li>
     </stuffCategories>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
     <costStuffCount>8</costStuffCount>
     <statBases>
       <MaxHitPoints>250</MaxHitPoints>
