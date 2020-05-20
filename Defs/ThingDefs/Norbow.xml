@@ -15,7 +15,7 @@
       <speed>50</speed>
     </projectile>
   </ThingDef>
-  <ThingDef ParentName="BaseWeaponNeolithic">
+  <ThingDef ParentName="BaseWeapon">
     <defName>Norbal_Scorpion</defName>
     <label>Norbal Scorpion</label>
     <description>Fearsome crossbow, deadly but slow.</description>
@@ -35,6 +35,9 @@
       <Mass>1</Mass>
     </statBases>
     <techLevel>Neolithic</techLevel>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
     <weaponTags>
       <li>NorbalHeroRanged</li>
       <li>Neolithic</li>
@@ -49,6 +52,11 @@
         <soundCast>Interact_BeatFire</soundCast>
       </li>
     </verbs>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
   </ThingDef>
   <ThingDef ParentName="BaseProjectileNeolithic">
     <defName>NorbalArrow_Grape</defName>
@@ -64,7 +72,7 @@
       <speed>50</speed>
     </projectile>
   </ThingDef>
-  <ThingDef ParentName="BaseWeaponNeolithic">
+  <ThingDef ParentName="BaseWeapon">
     <defName>NorbalBow_Grape</defName>
     <label>great bow</label>
     <description>A powerful greatbow. Fires a heavy arrow long distances.</description>
@@ -84,6 +92,9 @@
       <Mass>1</Mass>
     </statBases>
     <techLevel>Neolithic</techLevel>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
     <weaponTags>
       <li>NorbalRanged</li>
       <li>Neolithic</li>
@@ -98,5 +109,10 @@
         <soundCast>Bow_Large</soundCast>
       </li>
     </verbs>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
   </ThingDef>
 </Defs>
