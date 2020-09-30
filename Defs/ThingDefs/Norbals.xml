@@ -86,6 +86,7 @@
       <makesFootprints>true</makesFootprints>
       <lifeExpectancy>95</lifeExpectancy>
       <leatherDef>Leather_Human</leatherDef>
+      <useMeatFrom>Human</useMeatFrom>
       <nameCategory>HumanStandard</nameCategory>
       <manhunterOnDamageChance>0.20</manhunterOnDamageChance>
       <manhunterOnTameFailChance>0.02</manhunterOnTameFailChance>
