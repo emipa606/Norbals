@@ -1,71 +1,59 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <NorbalWarrior.label>warmonger</NorbalWarrior.label>
   <NorbalWarrior.labelPlural>warmongers</NorbalWarrior.labelPlural>
   <NorbalWarrior.labelMale>male warmonger</NorbalWarrior.labelMale>
   <NorbalWarrior.labelMalePlural>male warmongers</NorbalWarrior.labelMalePlural>
   <NorbalWarrior.labelFemale>female warmonger</NorbalWarrior.labelFemale>
   <NorbalWarrior.labelFemalePlural>female warmongers</NorbalWarrior.labelFemalePlural>
-
   <NorbalRager.label>Berserker</NorbalRager.label>
   <NorbalRager.labelPlural>Berserkers</NorbalRager.labelPlural>
   <NorbalRager.labelMale>male Berserker</NorbalRager.labelMale>
   <NorbalRager.labelMalePlural>male Berserkers</NorbalRager.labelMalePlural>
   <NorbalRager.labelFemale>female Berserker</NorbalRager.labelFemale>
   <NorbalRager.labelFemalePlural>female Berserkers</NorbalRager.labelFemalePlural>
-
   <NorbalDestroyer.label>Thunderer</NorbalDestroyer.label>
   <NorbalDestroyer.labelPlural>Thunderers</NorbalDestroyer.labelPlural>
   <NorbalDestroyer.labelMale>male Thunderer</NorbalDestroyer.labelMale>
   <NorbalDestroyer.labelMalePlural>male Thunderers</NorbalDestroyer.labelMalePlural>
   <NorbalDestroyer.labelFemale>female Thunderer</NorbalDestroyer.labelFemale>
   <NorbalDestroyer.labelFemalePlural>female Thunderers</NorbalDestroyer.labelFemalePlural>
-
   <NorbalArcher.label>skirmisher</NorbalArcher.label>
   <NorbalArcher.labelPlural>skirmishers</NorbalArcher.labelPlural>
   <NorbalArcher.labelMale>male skirmisher</NorbalArcher.labelMale>
   <NorbalArcher.labelMalePlural>male skirmishers</NorbalArcher.labelMalePlural>
   <NorbalArcher.labelFemale>female skirmisher</NorbalArcher.labelFemale>
   <NorbalArcher.labelFemalePlural>female skirmishers</NorbalArcher.labelFemalePlural>
-
   <NorbalSage.label>Sage</NorbalSage.label>
   <NorbalSage.labelPlural>Sages</NorbalSage.labelPlural>
   <NorbalSage.labelMale>male Sage</NorbalSage.labelMale>
   <NorbalSage.labelMalePlural>male Sages</NorbalSage.labelMalePlural>
   <NorbalSage.labelFemale>female Sage</NorbalSage.labelFemale>
   <NorbalSage.labelFemalePlural>female Sages</NorbalSage.labelFemalePlural>
-
   <NorbalGrandSage.label>Konungr</NorbalGrandSage.label>
   <NorbalGrandSage.labelPlural>Konungrs</NorbalGrandSage.labelPlural>
   <NorbalGrandSage.labelMale>male Konungr</NorbalGrandSage.labelMale>
   <NorbalGrandSage.labelMalePlural>male Konungrs</NorbalGrandSage.labelMalePlural>
   <NorbalGrandSage.labelFemale>female Konungr</NorbalGrandSage.labelFemale>
   <NorbalGrandSage.labelFemalePlural>female Konungrs</NorbalGrandSage.labelFemalePlural>
-
   <NorbalHero.label>hersir</NorbalHero.label>
   <NorbalHero.labelPlural>hersirs</NorbalHero.labelPlural>
   <NorbalHero.labelMale>male hersir</NorbalHero.labelMale>
   <NorbalHero.labelMalePlural>male hersirs</NorbalHero.labelMalePlural>
   <NorbalHero.labelFemale>female hersir</NorbalHero.labelFemale>
   <NorbalHero.labelFemalePlural>female hersirs</NorbalHero.labelFemalePlural>
-
   <NorbalThane.label>jarl</NorbalThane.label>
   <NorbalThane.labelPlural>jarls</NorbalThane.labelPlural>
   <NorbalThane.labelMale>male jarl</NorbalThane.labelMale>
   <NorbalThane.labelMalePlural>male jarls</NorbalThane.labelMalePlural>
   <NorbalThane.labelFemale>female jarl</NorbalThane.labelFemale>
   <NorbalThane.labelFemalePlural>female jarls</NorbalThane.labelFemalePlural>
-
   <NorbalSnorb.label>thrall</NorbalSnorb.label>
   <NorbalSnorb.labelPlural>thralls</NorbalSnorb.labelPlural>
-
   <NorbalKarl.label>karl</NorbalKarl.label>
   <NorbalKarl.labelPlural>karls</NorbalKarl.labelPlural>
   <NorbalKarl.labelMale>male karl</NorbalKarl.labelMale>
   <NorbalKarl.labelMalePlural>male karls</NorbalKarl.labelMalePlural>
   <NorbalKarl.labelFemale>female karl</NorbalKarl.labelFemale>
   <NorbalKarl.labelFemalePlural>female karls</NorbalKarl.labelFemalePlural>
-
-
 </LanguageData>

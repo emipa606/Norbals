@@ -1,20 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Norballo_Loincloth.label>Loincloth</Norballo_Loincloth.label>
   <Norballo_Loincloth.description>Your usual loincloth.</Norballo_Loincloth.description>
-
   <Norballo_Stripants.label>Striped trousers</Norballo_Stripants.label>
   <Norballo_Stripants.description>striped trousers with suspenders to ensure they stay on even on the most wrathful winds. True Norbal fashion</Norballo_Stripants.description>
-
   <Norballo_Shirt.label>mundane shirt</Norballo_Shirt.label>
   <Norballo_Shirt.description>very mundane shirt. slightly warmer than most base clothing</Norballo_Shirt.description>
-
   <Norballo_Furcoat.label>furcoat</Norballo_Furcoat.label>
   <Norballo_Furcoat.description>Furry long cape. really, really warm</Norballo_Furcoat.description>
-
   <Apparello_NorbalMuffshoes.label>fur boots</Apparello_NorbalMuffshoes.label>
   <Apparello_NorbalMuffshoes.description>Very furry and warm boots. Helps with moving through terrain (Worn on feet, 3rd layer)</Apparello_NorbalMuffshoes.description>
-
-
 </LanguageData>

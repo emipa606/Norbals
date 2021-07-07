@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <CultureDef>
+    <defName>Norbal</defName>
+    <label>norbal</label>
+    <description>A category describing the styles and practices of norbal groups.</description>
+    <pawnNameMaker>NamerPersonNorbal</pawnNameMaker>
+    <ideoNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerIdeoKriminul</ideoNameMaker>
+    <deityNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerDeityKriminul</deityNameMaker>
+    <deityTypeMaker MayRequire="Ludeon.RimWorld.Ideology">DeityTypeMakerKriminul</deityTypeMaker>
+    <leaderTitleMaker MayRequire="Ludeon.RimWorld.Ideology">LeaderTitleMaker_Kriminul</leaderTitleMaker>
+    <festivalNameMaker MayRequire="Ludeon.RimWorld.Ideology">NamerFestivalKriminul</festivalNameMaker>
+    <allowedPlaceTags>
+      <li>OriginSpacer</li>
+    </allowedPlaceTags>
+    <iconPath>World/WorldObjects/Expanding/PirateOutpost</iconPath>
+    <iconColor>(0.8, 0.8, 0.8)</iconColor>
+    <thingStyleCategories>
+      <li MayRequire="Ludeon.RimWorld.Ideology">
+        <category>Spikecore</category>
+        <priority>2</priority>
+      </li>
+    </thingStyleCategories>
+    <styleItemTags>
+      <li>
+        <tag>Punk</tag>
+        <baseWeight>1</baseWeight>
+        <weightFactor>1</weightFactor>
+      </li>
+      <li>
+        <tag>NoBeard</tag>
+        <baseWeight>10</baseWeight>
+        <weightFactor>1</weightFactor>
+      </li>
+      <li>
+        <tag>BeardPunk</tag>
+        <baseWeight>0.1</baseWeight>
+        <weightFactor>1</weightFactor>
+      </li>
+      <li>
+        <tag>NoTattoo</tag>
+        <baseWeight>1</baseWeight>
+        <weightFactor>1</weightFactor>
+      </li>
+      <li>
+        <tag>TattooFacePunk</tag>
+        <baseWeight>0.4</baseWeight>
+        <weightFactor>1</weightFactor>
+      </li>
+      <li>
+        <tag>TattooBodyPunk</tag>
+        <baseWeight>0.4</baseWeight>
+        <weightFactor>1</weightFactor>
+      </li>
+    </styleItemTags>
+  </CultureDef>
+  <FactionDef ParentName="FactionBase">
+    <defName>NorbalTribe</defName>
+    <label>norbal</label>
+    <description>These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the norbals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nSome clans are more aggressive than others; many are open to trade and alliances, even with strange peoples like yourselves. Close cooperation or recruitment will be very difficult because of the vast sociotechnological and linguistic gap between the norbals and yourselves.\n\nDespite their apparent technological weakness, the norbals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.</description>
+    <pawnsPlural>norbals</pawnsPlural>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <canMakeRandomly>true</canMakeRandomly>
+    <canStageAttacks>true</canStageAttacks>
+    <factionNameMaker>NamerFactionNorbal</factionNameMaker>
+    <techLevel>Medieval</techLevel>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>Tribal</li>
+        </categories>
+      </li>
+    </backstoryFilters>
+    <leaderTitle>Jarl</leaderTitle>
+    <allowedCultures>
+      <li>Norbal</li>
+    </allowedCultures>
+    <allowedArrivalTemperatureRange>-60~45</allowedArrivalTemperatureRange>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70, 50)</li>
+        <li>(700, 100)</li>
+        <li>(1300, 150)</li>
+        <li>(100000, 10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <!-- Normal fights, ranged with melee mix-ins -->
+        <kindDef>Combat</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <NorbalWarrior>10</NorbalWarrior>
+          <NorbalArcher>10</NorbalArcher>
+          <NorbalRager>8</NorbalRager>
+          <NorbalSnorb>9</NorbalSnorb>
+          <NorbalKarl>9</NorbalKarl>
+          <NorbalSage>5</NorbalSage>
+          <NorbalGrandSage>5</NorbalGrandSage>
+          <NorbalHero>5</NorbalHero>
+          <NorbalThane>5</NorbalThane>
+          <NorbalDestroyer>8</NorbalDestroyer>
+        </options>
+      </li>
+      <li>
+        <!-- Peaceful -->
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <NorbalWarrior>20</NorbalWarrior>
+          <NorbalArcher>10</NorbalArcher>
+          <NorbalRager>10</NorbalRager>
+          <NorbalSnorb>10</NorbalSnorb>
+          <NorbalKarl>5</NorbalKarl>
+          <NorbalSage>3</NorbalSage>
+          <NorbalGrandSage>1.5</NorbalGrandSage>
+        </options>
+      </li>
+      <li>
+        <!-- Base defense, mainly ranged with melee mix-ins -->
+        <kindDef>Settlement</kindDef>
+        <commonality>100</commonality>
+        <options>
+          <NorbalWarrior>5</NorbalWarrior>
+          <NorbalArcher>15</NorbalArcher>
+          <NorbalRager>8</NorbalRager>
+          <NorbalSnorb>9</NorbalSnorb>
+          <NorbalKarl>9</NorbalKarl>
+          <NorbalSage>5</NorbalSage>
+          <NorbalGrandSage>5</NorbalGrandSage>
+          <NorbalHero>5</NorbalHero>
+          <NorbalThane>5</NorbalThane>
+          <NorbalDestroyer>8</NorbalDestroyer>
+        </options>
+      </li>
+    </pawnGroupMakers>
+    <factionIconPath>World/WorldObjects/Expanding/PirateOutpost</factionIconPath>
+    <settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath>
+  </FactionDef>
+</Defs>
