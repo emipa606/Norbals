@@ -33,6 +33,7 @@
     <smeltProducts>
       <Steel>20</Steel>
     </smeltProducts>
+    <smeltable>true</smeltable>
   </ThingDef>
   <!-- ==================== Frag grenade ========================== -->
   <ThingDef ParentName="BaseGrenadeProjectile">
