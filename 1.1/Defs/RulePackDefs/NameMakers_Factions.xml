@@ -1,62 +1,62 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <RulePackDef>
     <defName>NamerFactionNorbal</defName>
     <rulePack>
       <rulesStrings>
-        <li>name-&gt;[Nornorbinks] [Nornorbinge]</li>
-        <li>Nornorbinks-&gt;Angir</li>
-        <li>Nornorbinks-&gt;Barde</li>
-        <li>Nornorbinks-&gt;Cael</li>
-        <li>Nornorbinks-&gt;Dom</li>
-        <li>Nornorbinks-&gt;Ereth</li>
-        <li>Nornorbinks-&gt;Forom</li>
-        <li>Nornorbinks-&gt;Gaer</li>
-        <li>Nornorbinks-&gt;Hodor</li>
-        <li>Nornorbinks-&gt;Illya</li>
-        <li>Nornorbinks-&gt;Jodir</li>
-        <li>Nornorbinks-&gt;Kereth</li>
-        <li>Nornorbinks-&gt;Lydum</li>
-        <li>Nornorbinks-&gt;Murth</li>
-        <li>Nornorbinks-&gt;Nobo</li>
-        <li>Nornorbinks-&gt;Ollym</li>
-        <li>Nornorbinks-&gt;Pudir</li>
-        <li>Nornorbinks-&gt;Qunum</li>
-        <li>Nornorbinks-&gt;Roost</li>
-        <li>Nornorbinks-&gt;Sten</li>
-        <li>Nornorbinks-&gt;Taer</li>
-        <li>Nornorbinks-&gt;Ulir</li>
-        <li>Nornorbinks-&gt;Wael</li>
-        <li>Nornorbinks-&gt;Vann</li>
-        <li>Nornorbinks-&gt;Xodir</li>
-        <li>Nornorbinks-&gt;Ylum</li>
-        <li>Nornorbinks-&gt;Zadir</li>
-        <li>Nornorbinge-&gt;Adaf</li>
-        <li>Nornorbinge-&gt;Bael</li>
-        <li>Nornorbinge-&gt;Can</li>
-        <li>Nornorbinge-&gt;Doth</li>
-        <li>Nornorbinge-&gt;Eng</li>
-        <li>Nornorbinge-&gt;Fuf</li>
-        <li>Nornorbinge-&gt;Gaf</li>
-        <li>Nornorbinge-&gt;Hoth</li>
-        <li>Nornorbinge-&gt;Ikken</li>
-        <li>Nornorbinge-&gt;Joth</li>
-        <li>Nornorbinge-&gt;Kel</li>
-        <li>Nornorbinge-&gt;Lyre</li>
-        <li>Nornorbinge-&gt;Mik</li>
-        <li>Nornorbinge-&gt;Nik</li>
-        <li>Nornorbinge-&gt;Ost</li>
-        <li>Nornorbinge-&gt;Pek</li>
-        <li>Nornorbinge-&gt;Qath</li>
-        <li>Nornorbinge-&gt;Rak</li>
-        <li>Nornorbinge-&gt;Sol</li>
-        <li>Nornorbinge-&gt;Tam</li>
-        <li>Nornorbinge-&gt;Ur</li>
-        <li>Nornorbinge-&gt;Was</li>
-        <li>Nornorbinge-&gt;Vor</li>
-        <li>Nornorbinge-&gt;Xer</li>
-        <li>Nornorbinge-&gt;Yth</li>
-        <li>Nornorbinge-&gt;Zaf</li>
+        <li>name->[Nornorbinks] [Nornorbinge]</li>
+        <li>Nornorbinks->Angir</li>
+        <li>Nornorbinks->Barde</li>
+        <li>Nornorbinks->Cael</li>
+        <li>Nornorbinks->Dom</li>
+        <li>Nornorbinks->Ereth</li>
+        <li>Nornorbinks->Forom</li>
+        <li>Nornorbinks->Gaer</li>
+        <li>Nornorbinks->Hodor</li>
+        <li>Nornorbinks->Illya</li>
+        <li>Nornorbinks->Jodir</li>
+        <li>Nornorbinks->Kereth</li>
+        <li>Nornorbinks->Lydum</li>
+        <li>Nornorbinks->Murth</li>
+        <li>Nornorbinks->Nobo</li>
+        <li>Nornorbinks->Ollym</li>
+        <li>Nornorbinks->Pudir</li>
+        <li>Nornorbinks->Qunum</li>
+        <li>Nornorbinks->Roost</li>
+        <li>Nornorbinks->Sten</li>
+        <li>Nornorbinks->Taer</li>
+        <li>Nornorbinks->Ulir</li>
+        <li>Nornorbinks->Wael</li>
+        <li>Nornorbinks->Vann</li>
+        <li>Nornorbinks->Xodir</li>
+        <li>Nornorbinks->Ylum</li>
+        <li>Nornorbinks->Zadir</li>
+        <li>Nornorbinge->Adaf</li>
+        <li>Nornorbinge->Bael</li>
+        <li>Nornorbinge->Can</li>
+        <li>Nornorbinge->Doth</li>
+        <li>Nornorbinge->Eng</li>
+        <li>Nornorbinge->Fuf</li>
+        <li>Nornorbinge->Gaf</li>
+        <li>Nornorbinge->Hoth</li>
+        <li>Nornorbinge->Ikken</li>
+        <li>Nornorbinge->Joth</li>
+        <li>Nornorbinge->Kel</li>
+        <li>Nornorbinge->Lyre</li>
+        <li>Nornorbinge->Mik</li>
+        <li>Nornorbinge->Nik</li>
+        <li>Nornorbinge->Ost</li>
+        <li>Nornorbinge->Pek</li>
+        <li>Nornorbinge->Qath</li>
+        <li>Nornorbinge->Rak</li>
+        <li>Nornorbinge->Sol</li>
+        <li>Nornorbinge->Tam</li>
+        <li>Nornorbinge->Ur</li>
+        <li>Nornorbinge->Was</li>
+        <li>Nornorbinge->Vor</li>
+        <li>Nornorbinge->Xer</li>
+        <li>Nornorbinge->Yth</li>
+        <li>Nornorbinge->Zaf</li>
       </rulesStrings>
     </rulePack>
   </RulePackDef>
