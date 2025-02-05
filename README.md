@@ -11,11 +11,11 @@ https://ludeon.com/forums/index.php?topic=7670.0
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
-Behold the Norbals of the Rim, Fearless and hairy! They wouldn&apos;t be so strong if they&apos;d live beerless and without dairy
-it kinda rhymes and that&apos;s the point so hide your dimes cause they&apos;ll wreck your joint! &quot;Hurf&quot; says the proud Rimkins, the Norbals of the north!
+Behold the Norbals of the Rim, Fearless and hairy! They would not be so strong if they had to live beerless and without dairy!
+It kinda rhymes and that is the point so hide your dimes cause they willll wreck your joint! "Hurf" says the proud Rimkins, the Norbals of the north!
 
-Vikings, they&apos;re tougher than normal human beings and thrive in colder climates
-really, really hate heat.
+Vikings, they are tougher than normal human beings and thrive in colder climates.
+They really, really hate heat.
 
 
 ![Image](https://i.imgur.com/PwoNOj4.png)

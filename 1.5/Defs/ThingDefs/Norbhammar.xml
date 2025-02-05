@@ -21,9 +21,7 @@
     <altitudeLayer>Item</altitudeLayer>
     <description>Equipment lacks desc.</description>
     <comps>
-      <li>
-        <compClass>CompForbiddable</compClass>
-      </li>
+      <li Class="CompProperties_Forbiddable" />
       <li>
         <compClass>CompEquippable</compClass>
       </li>

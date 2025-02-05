@@ -1,5 +1,8 @@
 # Changelog for Norbals
 
+1.5.2 - Missed a change in a weapon-def causing pawn-generation to fail sometimes
+
+
 1.5.1 - Now inherits the human baseclass instead of duplicating properties, should make it more compatible with other mods
 
 
