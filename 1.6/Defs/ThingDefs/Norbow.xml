@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ========================== NORBIFICS ============================== -->
+  <ThingDef ParentName="BaseProjectileNeolithic">
+    <defName>Norbal_BoardingCrossbow</defName>
+    <label>Bolt</label>
+    <graphicData>
+      <texPath>Things/Projectile/Pilum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>20</damageAmountBase>
+      <speed>50</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeapon">
+    <defName>Norbal_Scorpion</defName>
+    <label>Norbal Scorpion</label>
+    <description>Fearsome crossbow, deadly but slow.</description>
+    <graphicData>
+      <texPath>NorbalCrossBow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_BeatFire</soundInteract>
+    <statBases>
+      <MarketValue>190</MarketValue>
+      <AccuracyTouch>0.91</AccuracyTouch>
+      <AccuracyShort>0.8</AccuracyShort>
+      <AccuracyMedium>0.75</AccuracyMedium>
+      <AccuracyLong>0.72</AccuracyLong>
+      <RangedWeapon_Cooldown>2.16</RangedWeapon_Cooldown>
+      <EquipDelay>2</EquipDelay>
+      <Mass>1</Mass>
+    </statBases>
+    <techLevel>Neolithic</techLevel>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
+    <weaponTags>
+      <li>NorbalHeroRanged</li>
+      <li>Neolithic</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Norbal_BoardingCrossbow</defaultProjectile>
+        <warmupTime>2.60</warmupTime>
+        <range>30</range>
+        <soundCast>Interact_BeatFire</soundCast>
+      </li>
+    </verbs>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="BaseProjectileNeolithic">
+    <defName>NorbalArrow_Grape</defName>
+    <label>greatbow arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>16</damageAmountBase>
+      <speed>50</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeapon">
+    <defName>NorbalBow_Grape</defName>
+    <label>great bow</label>
+    <description>A powerful greatbow. Fires a heavy arrow long distances.</description>
+    <graphicData>
+      <texPath>NorbalBow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Bow_Large</soundInteract>
+    <statBases>
+      <MarketValue>180</MarketValue>
+      <AccuracyTouch>0.90</AccuracyTouch>
+      <AccuracyShort>0.84</AccuracyShort>
+      <AccuracyMedium>0.61</AccuracyMedium>
+      <AccuracyLong>0.52</AccuracyLong>
+      <RangedWeapon_Cooldown>0.66</RangedWeapon_Cooldown>
+      <EquipDelay>2</EquipDelay>
+      <Mass>1</Mass>
+    </statBases>
+    <techLevel>Neolithic</techLevel>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
+    <weaponTags>
+      <li>NorbalRanged</li>
+      <li>Neolithic</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>NorbalArrow_Grape</defaultProjectile>
+        <warmupTime>2.20</warmupTime>
+        <range>38</range>
+        <soundCast>Bow_Large</soundCast>
+      </li>
+    </verbs>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

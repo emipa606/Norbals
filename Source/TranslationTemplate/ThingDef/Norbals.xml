@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: norbal -->
+  <Norbal.label>norbal</Norbal.label>
+  <!-- EN: A baseline human, Hardened by the colder climates. Hairy and strong but unable to deal with high temperatures. -->
+  <Norbal.description>A baseline human, Hardened by the colder climates. Hairy and strong but unable to deal with high temperatures.</Norbal.description>
+  <!-- EN: left fist -->
+  <Norbal.tools.left_fist.label>left fist</Norbal.tools.left_fist.label>
+  <!-- EN: fist -->
+  <Norbal.tools.left_fist.labelNoLocation>fist</Norbal.tools.left_fist.labelNoLocation>
+  <!-- EN: right fist -->
+  <Norbal.tools.right_fist.label>right fist</Norbal.tools.right_fist.label>
+  <!-- EN: fist -->
+  <Norbal.tools.right_fist.labelNoLocation>fist</Norbal.tools.right_fist.labelNoLocation>
+  <!-- EN: teeth -->
+  <Norbal.tools.teeth.label>teeth</Norbal.tools.teeth.label>
+  <!-- EN: head -->
+  <Norbal.tools.head.label>head</Norbal.tools.head.label>
+</LanguageData>

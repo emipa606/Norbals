@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Norbal War axe -->
+  <NorbalMeleeWeapon_Ax.label>Norbal War axe</NorbalMeleeWeapon_Ax.label>
+  <!-- EN: Medieval axe. -->
+  <NorbalMeleeWeapon_Ax.description>Medieval axe.</NorbalMeleeWeapon_Ax.description>
+  <!-- EN: handle -->
+  <NorbalMeleeWeapon_Ax.tools.handle.label>handle</NorbalMeleeWeapon_Ax.tools.handle.label>
+  <!-- EN: edge -->
+  <NorbalMeleeWeapon_Ax.tools.edge.label>edge</NorbalMeleeWeapon_Ax.tools.edge.label>
+  <!-- EN: Battleaxe -->
+  <NorbalMeleeWeapon_Bigax.label>Battleaxe</NorbalMeleeWeapon_Bigax.label>
+  <!-- EN: The ultimate norbal beheader. -->
+  <NorbalMeleeWeapon_Bigax.description>The ultimate norbal beheader.</NorbalMeleeWeapon_Bigax.description>
+  <!-- EN: handle -->
+  <NorbalMeleeWeapon_Bigax.tools.handle.label>handle</NorbalMeleeWeapon_Bigax.tools.handle.label>
+  <!-- EN: edge -->
+  <NorbalMeleeWeapon_Bigax.tools.edge.label>edge</NorbalMeleeWeapon_Bigax.tools.edge.label>
+  <!-- EN: heroic sword -->
+  <NorbalMeleeWeapon_ShortSword.label>heroic sword</NorbalMeleeWeapon_ShortSword.label>
+  <!-- EN: Reliable and deadly in melee combat. Comes with added arabic flair. It's likely loot from a raid -->
+  <NorbalMeleeWeapon_ShortSword.description>Reliable and deadly in melee combat. Comes with added arabic flair. It's likely loot from a raid</NorbalMeleeWeapon_ShortSword.description>
+  <!-- EN: handle -->
+  <NorbalMeleeWeapon_ShortSword.tools.handle.label>handle</NorbalMeleeWeapon_ShortSword.tools.handle.label>
+  <!-- EN: point -->
+  <NorbalMeleeWeapon_ShortSword.tools.point.label>point</NorbalMeleeWeapon_ShortSword.tools.point.label>
+  <!-- EN: edge -->
+  <NorbalMeleeWeapon_ShortSword.tools.edge.label>edge</NorbalMeleeWeapon_ShortSword.tools.edge.label>
+  <!-- EN: norbal sword -->
+  <NorbalMeleeWeapon_ShortSwordtwo.label>norbal sword</NorbalMeleeWeapon_ShortSwordtwo.label>
+  <!-- EN: Reliable and deadly in melee combat. Comes with added nordic flair -->
+  <NorbalMeleeWeapon_ShortSwordtwo.description>Reliable and deadly in melee combat. Comes with added nordic flair</NorbalMeleeWeapon_ShortSwordtwo.description>
+  <!-- EN: handle -->
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.handle.label>handle</NorbalMeleeWeapon_ShortSwordtwo.tools.handle.label>
+  <!-- EN: point -->
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.point.label>point</NorbalMeleeWeapon_ShortSwordtwo.tools.point.label>
+  <!-- EN: edge -->
+  <NorbalMeleeWeapon_ShortSwordtwo.tools.edge.label>edge</NorbalMeleeWeapon_ShortSwordtwo.tools.edge.label>
+</LanguageData>

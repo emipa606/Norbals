@@ -1,5 +1,8 @@
 # Changelog for Norbals
 
+1.6.0 - Mod updated for 1.6 and passed autotests
+
+
 1.5.2 - Missed a change in a weapon-def causing pawn-generation to fail sometimes
 
 

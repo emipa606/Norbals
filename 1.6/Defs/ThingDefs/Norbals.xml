@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================ Norbal ========================== -->
+  <ThingDef ParentName="Human">
+    <defName>Norbal</defName>
+    <label>norbal</label>
+    <description>A baseline human, Hardened by the colder climates. Hairy and strong but unable to deal with high temperatures.</description>
+    <uiIconPath>Things/Pawn/Humanlike/UI/IconHuman</uiIconPath>
+    <statBases>
+      <MarketValue>1700</MarketValue>
+      <MoveSpeed>4.97</MoveSpeed>
+      <Flammability>0.7</Flammability>
+      <ComfyTemperatureMin>-5</ComfyTemperatureMin>
+      <ComfyTemperatureMax>22</ComfyTemperatureMax>
+      <LeatherAmount>23</LeatherAmount>
+    </statBases>
+    <race>
+      <specialShadowData>
+        <volume>(0.3, 0.8, 0.4)</volume>
+        <offset>(0,0,-0.3)</offset>
+      </specialShadowData>
+      <lifeExpectancy>95</lifeExpectancy>
+      <useMeatFrom>Human</useMeatFrom>
+      <manhunterOnDamageChance>0.20</manhunterOnDamageChance>
+      <manhunterOnTameFailChance>0.02</manhunterOnTameFailChance>
+      <baseBodySize>1.1</baseBodySize>
+      <baseHealthScale>1.3</baseHealthScale>
+      <gestationPeriodDays>90</gestationPeriodDays>
+    </race>
+  </ThingDef>
+</Defs>

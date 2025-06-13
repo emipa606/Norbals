@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 1970443653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4c60e1fbbf13cf824577464ed590fa2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c60e1fbbf13cf824577464ed590fa2d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Hulk_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Female_north.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Braidbun_south.png
+- Assets/Data/Mlie.Norbals/Textures/NorbalHandukarAx.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalThunder.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Fat_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Female_east.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalThunder_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Female_east.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Zelda_south.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/Sagecowl.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Norbaltwo_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Female_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Thin_east.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalThunder_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Fat_south.png
+- Assets/Data/Mlie.Norbals/Textures/NorbalSword.png
+- Assets/Data/Mlie.Norbals/Textures/Norbhammar.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Fat_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Female_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Hulk_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Hulk_north.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Norbal_south.png
+- Assets/Data/Mlie.Norbals/Textures/NorbalAx.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/NorbalBoots.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Male_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Thin_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Fat_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Fat_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Hulk_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Thin_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Male_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Thin_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Male_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Fat_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Thin_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Male_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Zelda_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Female_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Thin_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Female_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Male_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Thin_south.png
+- Assets/Data/Mlie.Norbals/Textures/NorbhammarBullet.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalChain_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Fat_east.png
+- Assets/Data/Mlie.Norbals/Textures/NorbalierSword.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Braidbun_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Male_north.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalChain.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Female_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Thin_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Hulk_south.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalChain_south.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Norbaltwo_north.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalLeather_north.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalSkullcap_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Female_south.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalThunder_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Thin_south.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalSkullcap.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Braidbun_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Male_north.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalSkullcap_east.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/Sagecowl_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Female_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Male_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Fat_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Thin_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Hulk_north.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalLeather.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Hulk_east.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/Sagecowl_south.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Zelda_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Fat_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Hulk_east.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Norbaltwo_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Male_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Male_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Male_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Thin_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Hulk_east.png
+- Assets/Data/Mlie.Norbals/Textures/NorbalBow.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalLeather_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/TribalA_Thin_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Hulk_north.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Norbal_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Fat_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Hulk_east.png
+- Assets/Data/Mlie.Norbals/Textures/NorbalCrossBow.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalSkullcap_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Fat_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Male_south.png
+- Assets/Data/Mlie.Norbals/Textures/Hair/Norbal_north.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalChain_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/ShirtBasic_Hulk_south.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Female_east.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/Sagecowl_north.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Suspenders_Female_south.png
+- Assets/Data/Mlie.Norbals/Textures/Helmut/NorbalLeather_east.png
+- Assets/Data/Mlie.Norbals/Textures/Apparel/Duster_Fat_south.png
+Dependencies: []

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bolt -->
+  <Norbal_BoardingCrossbow.label>Bolt</Norbal_BoardingCrossbow.label>
+  <!-- EN: Norbal Scorpion -->
+  <Norbal_Scorpion.label>Norbal Scorpion</Norbal_Scorpion.label>
+  <!-- EN: Fearsome crossbow, deadly but slow. -->
+  <Norbal_Scorpion.description>Fearsome crossbow, deadly but slow.</Norbal_Scorpion.description>
+  <!-- EN: Norbal Scorpion -->
+  <Norbal_Scorpion.verbs.Verb_Shoot.label>Norbal Scorpion</Norbal_Scorpion.verbs.Verb_Shoot.label>
+  <!-- EN: greatbow arrow -->
+  <NorbalArrow_Grape.label>greatbow arrow</NorbalArrow_Grape.label>
+  <!-- EN: great bow -->
+  <NorbalBow_Grape.label>great bow</NorbalBow_Grape.label>
+  <!-- EN: A powerful greatbow. Fires a heavy arrow long distances. -->
+  <NorbalBow_Grape.description>A powerful greatbow. Fires a heavy arrow long distances.</NorbalBow_Grape.description>
+  <!-- EN: great bow -->
+  <NorbalBow_Grape.verbs.Verb_Shoot.label>great bow</NorbalBow_Grape.verbs.Verb_Shoot.label>
+</LanguageData>

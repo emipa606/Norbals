@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Skullcap -->
+  <Apparello_NorbalArcher.label>Skullcap</Apparello_NorbalArcher.label>
+  <!-- EN: Adorned cap, protects the entire head. -->
+  <Apparello_NorbalArcher.description>Adorned cap, protects the entire head.</Apparello_NorbalArcher.description>
+  <!-- EN: Horned cap -->
+  <Apparello_NorbalKing.label>Horned cap</Apparello_NorbalKing.label>
+  <!-- EN: Decorated hardened leather cap. Often worn by the most revered and skilled combatants of Norbal communities -->
+  <Apparello_NorbalKing.description>Decorated hardened leather cap. Often worn by the most revered and skilled combatants of Norbal communities</Apparello_NorbalKing.description>
+  <!-- EN: cowl -->
+  <Apparello_NorbalSagecowl.label>cowl</Apparello_NorbalSagecowl.label>
+  <!-- EN: Hardened leather cowl. Often worn by the sages of the Norbal communities -->
+  <Apparello_NorbalSagecowl.description>Hardened leather cowl. Often worn by the sages of the Norbal communities</Apparello_NorbalSagecowl.description>
+  <!-- EN: Winged skullcap -->
+  <Apparello_NorbalThunder.label>Winged skullcap</Apparello_NorbalThunder.label>
+  <!-- EN: Adorned cap, protects the entire head. -->
+  <Apparello_NorbalThunder.description>Adorned cap, protects the entire head.</Apparello_NorbalThunder.description>
+  <!-- EN: Bascinet -->
+  <Apparello_NorbalWarrior.label>Bascinet</Apparello_NorbalWarrior.label>
+  <!-- EN: Your usual bascinet, protects the entire head. -->
+  <Apparello_NorbalWarrior.description>Your usual bascinet, protects the entire head.</Apparello_NorbalWarrior.description>
+</LanguageData>
